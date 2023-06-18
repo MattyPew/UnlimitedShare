@@ -18,7 +18,7 @@ video soon
 | Encryption  | No ❌ | Yes ✔️ |
 | Better config  | No ❌ | Yes ✔️ |
 | Working now  | Download is broken ❌ | Yes ✔️ |
-| Encrypted / Original size ratio  | Doesn´t have encryption ❌ | aprox. 1:1.3 ✔️ |
+| Encrypted / Original size ratio  | Doesn´t have encryption ❌ | aprox. 1.3:1 ✔️ |
 | Faster upload  | webapp (slower) ❌ | app (faster) ✔️ |
 | Faster download  | webapp (slower) ❌ | app (faster) ✔️ |
 | GUI  | Yes ✔️ | No (soon will be) ❌ |
