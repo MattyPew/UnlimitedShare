@@ -6,6 +6,10 @@
 
 This project works using discord as storage provider.
 
+How does it works?
+
+<video soon>
+
 ## What about other projects?
 
 | Feature | Disbox ☁️| Unlimited Share ☁️ |
@@ -39,10 +43,27 @@ Project is written in python 3.x., but soon will be compiled.
 
 Download python 3.x with pip.
 
-
 Download latest zip from releases.
 
-Unzip, and run setup.bat (setup will install all dependencies, run setup only first time.).
+Go to https://discord.com/developers/applications and create new bot.
+
+Follow this instructions: https://discordpy.readthedocs.io/en/stable/discord.html
+
+Copy bot token and paste it into config.py:
+```bash
+  bot_token = "(here)"
+```
+
+Create new discord server (only for you and your bot) and copy guild id:
+
+https://www.alphr.com/discord-find-server-id/
+
+Paste it into config.py:
+```bash
+  guild = "(here)"
+```
+
+Then run setup.bat (setup will install all dependencies, run setup only first time.).
 
 If terminal window after setup isn´t shown, run main.py (if something goes wrong, run it as admin).
 
