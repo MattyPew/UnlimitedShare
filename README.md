@@ -8,7 +8,7 @@ This project works using discord as storage provider.
 
 How does it works?
 
-<video soon>
+video soon
 
 ## What about other projects?
 
