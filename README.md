@@ -27,7 +27,6 @@ video soon
 | Unlimited | Yes ✔️ | Yes ✔️ |
 | Secure | Not enough ❌ | Encryption ✔️ |
 | Simple | Setup is bit confusing ❌ | Not enough ❌ |
-| Secure | Not enough ❌ | Encryption ✔️ |
 | Forever | Yes ✔️ | Yes ✔️ |
 | Upload folders | Must be ziped (not supported) ❌ | Must be ziped (not supported) ❌ |
 | **Result** | Worse ❌ | Better ✔️ |
