@@ -6,7 +6,7 @@
 
 This project works using discord as storage provider.
 
-How does it works?
+How does it work?
 
 video soon
 
@@ -28,7 +28,7 @@ video soon
 | Secure | Not enough ❌ | Encryption ✔️ |
 | Simple | Setup is bit confusing ❌ | Not enough ❌ |
 | Forever | Yes ✔️ | Yes ✔️ |
-| Upload folders | Must be ziped (not supported) ❌ | Must be ziped (not supported) ❌ |
+| Upload folders | Must be zipped (not supported) ❌ | Must be zipped (not supported) ❌ |
 | **Result** | Worse ❌ | Better ✔️ |
 
 ## So what's holding you back?
