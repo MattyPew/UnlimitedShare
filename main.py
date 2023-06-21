@@ -2,7 +2,23 @@ import os
 import shutil
 import subprocess
 import config
+import requests
 cls = "os.system('cls')"
+
+# Check for updates
+
+latest_version = requests.get(config.latest_version_compare_url).content.decode("utf-8").strip('\n')
+if config.version != latest_version:
+    print("Update available ("+str(config.version)+" --> "+str(latest_version)+")")
+    input("Go to https://github.com/NetysGamesCZ/UnlimitedShare/releases/tag/releases and download latest version! (press anything to continue)\n")
+else:
+    print("Using latest version! ("+str(config.version)+")\n")
+
+
+
+
+
+
 
 while True:
     while True:
