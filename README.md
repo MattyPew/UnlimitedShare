@@ -40,6 +40,10 @@ Start using Unlimited Share today!
 
 Project is written in python 3.x., but soon will be compiled.
 
+**If using version 0.2 and above, you don´t need python, because releases are compiled:**
+Skip python download step.
+
+**If you are using version 0.1. or are you using files from repozitory, you need python:**
 Download python 3.x with pip.
 
 Download latest zip from releases.
