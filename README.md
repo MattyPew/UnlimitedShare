@@ -38,11 +38,7 @@ Start using Unlimited Share today!
 
 ## Setup
 
-Project is written in python 3.x., but soon will be compiled.
-
-Download python 3.x with pip.
-
-Download latest zip from releases.
+Project is written in python 3.x., but now is compiled!
 
 Go to https://discord.com/developers/applications and create new bot.
 
@@ -61,11 +57,6 @@ Paste it into config.py:
 ```bash
   guild = "(here)"
 ```
-
-Then run setup.bat (setup will install all dependencies, run setup only first time.).
-
-If terminal window after setup isn´t shown, run main.py (if something goes wrong, run it as admin).
-
 ### Upload:
 
 ```bash
